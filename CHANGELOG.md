@@ -1,6 +1,10 @@
-ASET Consolidated Avionics Pack by Alexustas, adopted by Stone Blue
+ASET Consolidated Avionics Pack by Alexustas, adopted by Stone Blue and later FirstPersonKSP
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Unreleased
+
+- Simplified altimeter model, and fixed inconsistencies with the arrow indicators (thanks @hairintd)
 
 ## v3.0.2 - 2025-04-06
 
