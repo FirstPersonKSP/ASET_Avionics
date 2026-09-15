@@ -5,13 +5,8 @@ ASET Consolidated Avionics Pack by Alexustas, adopted by Stone Blue and later Fi
 ## Unreleased
 
 - Simplified altimeter model, and fixed inconsistencies with the arrow indicators (thanks @hairintd)
-
-## v3.0.2 - 2025-04-06
-
-- Changes:
-
-  - Adopted by FirstPersonKSP org
-  - add NEEDS clauses around configs that require FAR so they don't emit errors when FAR isn't installed
+- add NEEDS clauses around configs that require FAR so they don't emit errors when FAR isn't installed
+- HUD objects are now attached to the glass
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
